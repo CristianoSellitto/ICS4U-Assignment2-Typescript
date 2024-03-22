@@ -1,6 +1,6 @@
 /**
 *
-* This program checks how many chacacter repeat in a string
+* This program checks how many characters repeat in a string
 *
 * By:      Cristiano Sellitto
 * Version: 1.0
